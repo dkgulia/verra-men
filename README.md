@@ -1,4 +1,4 @@
-# VERRA MEN — Agency Ecommerce Template
+# VERRA MEN
 
 Premium menswear ecommerce demo built for agency reuse.
 
